@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+div#menu {
+    background-color: #222;
+    text-align: center;
+    display: block
+
+}
+
+ul,
+ul li {
+    display: block;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center
+}
+
+ul li {
+    display: inline;
+    white-space: nowrap;
+}
+
+div#header > a {
+    color: white;
+    text-decoration: none;
+    font-size: 40px;
+}
+
+div#main-header-text {
+    position: absolute;
+    font-size: 70px;
+    top:550px;
+}
