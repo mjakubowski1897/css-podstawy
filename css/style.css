@@ -14,3 +14,11 @@ p {
 .selektor-po-klasie {
 	color:violet;
 }
+
+#moniki p{
+    color: greenyellow;     
+}
+
+#moniki > div > div > p {
+    color:brown;
+}
