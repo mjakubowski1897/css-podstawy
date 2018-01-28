@@ -1,3 +1,24 @@
 body {
-    background-color: red;
+    background-color: azure
 }
+
+div {
+    width:300px;
+    height: 30px;
+    margin: 15px;
+    background-color: firebrick
+}
+
+#predefiniowane {
+	background-color: darkgoldenrod
+}
+#hexadecymalne {
+    background-color: #45aadd;    
+}
+
+#skrocony-hex {
+    background-color: #2a9    
+}
+
+#rgb {
+    background-color: rgb (69, 240, 67
