@@ -22,17 +22,17 @@ div#kontener > div#drugi {
 } 
 
 div#kontener-abs {
-    background-color: beige;
+    background-color: lightgreen;
     padding: 10px;
 }
 
 div#kontener-abs > div#pierwszy-abs {
-    background-color: chocolate;
+    background-color: yellow;
     position: relative;
     top: 30px;
     left: 60px;
 }
 div#kontener-abs > div#drugi-abs {
-    background-color: lime;
+    background-color: hotpink;
 } 
 
